@@ -7,7 +7,6 @@
   "dependencies": {
     "fibers": "^1.0.13",
     "meteor-node-stubs": "~0.2.0",
-    "spooky": "^0.2.5",
     "underscore": "^1.8.3"
   }
 }
